@@ -1,6 +1,6 @@
 # Week 5 Homework Starter Code
 
-This code is to get you started on our Week #5 Homework Assignment. If you need any help with the assignment, GitHub, or anything else, please feel free to reach out in Discord and one of the mentors will be happy to help you. Not sure if you're in the right place? Head back to the [main preseason repository](https://github.com/FTC-Mech-A-Mind/preseason-2023).
+This code is to get you started on our Week #5 Homework Assignment. If you need any help with the assignment, GitHub, or anything else, please feel free to reach out in Discord and one of the mentors will be happy to help you. Not sure if you're in the right place? Head back to the [main preseason repository](https://github.com/FTC-Mech-A-Mind/preseason-2023). You can also view the [lesson plan](https://docs.google.com/presentation/d/15BhDc68wlTPyZEOH92Jtjrx_89rtcMmD6gK-2lV8g5M/edit?usp=sharing)
 
 ## Resources
 ### You can use these to help you with the assignment
