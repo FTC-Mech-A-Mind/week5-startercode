@@ -2,6 +2,11 @@
 
 This code is to get you started on our Week #5 Homework Assignment. If you need any help with the assignment, GitHub, or anything else, please feel free to reach out in Discord and one of the mentors will be happy to help you. Not sure if you're in the right place? Head back to the [main preseason repository](https://github.com/FTC-Mech-A-Mind/preseason-2023).
 
+## Resources
+### You can use these to help you with the assignment
+[Arrays and Arraylist](https://youtu.be/NbYgm0r7u6o)
+[Polymorphism and Inheritance](https://youtu.be/jhDUxynEQRI)
+
 ## Getting Started
 
 To get started on this assignment, you'll want to fork this repository, then clone it onto your local computer. Once you have it on your local computer, you should be able to get started editing in Visual Studio Code. All of the required plugins have already been setup in person.
