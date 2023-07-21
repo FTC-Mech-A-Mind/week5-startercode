@@ -5,6 +5,7 @@ This code is to get you started on our Week #5 Homework Assignment. If you need 
 ## Resources
 ### You can use these to help you with the assignment
 [Arrays and Arraylist](https://youtu.be/NbYgm0r7u6o)
+
 [Polymorphism and Inheritance](https://youtu.be/jhDUxynEQRI)
 
 ## Getting Started
