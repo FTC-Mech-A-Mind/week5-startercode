@@ -22,7 +22,8 @@ Next, we need to make a **fork** of the starter code repository. A fork is basic
 
 **tip:** This process will be easier if you create a create a duplicate of this tab (i.e. have two of these pages open at the same time). That way you can refer to the guide while you are forking the repository.
 
-To fork the repository, you are first going to want to scroll to the top of the page and press the fork button.
+
+To fork the repository, start on the page for it on the GitHub website.  You are first going to want to scroll to the top of the page and press the fork button.
 
 ![Fork Repository - Step 1](https://raw.githubusercontent.com/FTC-Mech-A-Mind/week5-startercode/main/res/fork-1.png)
 
@@ -34,7 +35,7 @@ Great! Once the fork is finished creating itself, you should be all set to clone
 
 ### Step 3 - Clone the Repository
 
-To clone the repository, reopen GitHub Desktop on your computer. Click on **Current Repository** >> **Add** >> **Clone Repository**.
+To clone the repository, open GitHub Desktop on your computer (the app you installed in Step 1). Click on **Current Repository** >> **Add** >> **Clone Repository**.
 
 ![Clone Repository - Step 1](https://raw.githubusercontent.com/FTC-Mech-A-Mind/week5-startercode/main/res/ghd-1.png)
 
