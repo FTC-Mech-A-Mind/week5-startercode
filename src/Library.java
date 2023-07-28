@@ -21,6 +21,7 @@ public class Library {
 
     public void addBook(Book b) {
         this.books.add(b);
+
     }
 
     public void removeBook(Book b) {
@@ -29,12 +30,18 @@ public class Library {
 
     // Write a method that calls toString for all Books in the library
     public void printBooks() {
-        
+        for(int i = 0; i < this.books.size(); i++){
+            System.out.println(this.books.get(i).toString() + "\n");
+        }
     }
 
     // Write a method that calculates the sum of the price of all the books
     // in the library
     public int sumOfPrices() {
-
+        int sum = 0;
+        for(int i = 0; i < this.books.size(); i++){
+            sum += this.books.get(i).getPrice();
+        }
+        return sum;
     }
 }
