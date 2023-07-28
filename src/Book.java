@@ -5,17 +5,27 @@ public class Book {
 
     public Book() {
         // Initizlize the instance variables here for the blank constructor
+        this.title = "";
+        this.author = "";
+        this.price = 0.0;
     }
 
     public Book(String title, String author, double price) {
         // Initialize the instance variables here using the inputs
+        this.title = title;
+        this.author = author;
+        this.price = price;
+
     }
 
     public String toString() {
         return "Title: " + this.title + "\nAuthor: " + this.author + "\nPrice: " + this.price;
     }
 
-    // add a method that compares the price of two books
+    //add a method that compares the price of two books
+    public boolean comparePrice(Book book2){
+        return this.price == book2.price;
+    }
     
 
     // getters amd setters for title, author, and price
