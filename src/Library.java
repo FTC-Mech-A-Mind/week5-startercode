@@ -29,12 +29,18 @@ public class Library {
 
     // Write a method that calls toString for all Books in the library
     public void printBooks() {
-        
+        for (int i=0; i<books.size(); i++)
+            System.out.println(books.get(i).toString());
     }
 
     // Write a method that calculates the sum of the price of all the books
     // in the library
-    public int sumOfPrices() {
+    public double sumOfPrices() {
+        double price = 0;
 
+        for (int i=0; i<books.size(); i++)
+            price += books.get(i).price;
+
+        return price;
     }
 }
